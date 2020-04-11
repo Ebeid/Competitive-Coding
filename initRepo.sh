@@ -1,4 +1,6 @@
 #!/bin/bash
+mkdir solutions
+cd solutions
 for i in $(seq -f "%04g" 1 1500)
 do
   echo "Creating directory $i "
