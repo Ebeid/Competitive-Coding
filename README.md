@@ -19,26 +19,27 @@ do
 done
 ```
 
-make initRepo.sh executable
+make initRepo.sh executable then execute it
 
 ```
 chmod 755 initRepo.sh
+./initRepo.sh
 ```
 These are the problems that I solved so far:
 
 | No. | Problem Name | Difficulty | Solution |
 |-----|--------------|------------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](solutions/0001/README.md) |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy | [Solution](solutions/0007/README.md) |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [Solution](solutions/0009/README.md) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [Solution](solutions/0013/README.md) |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [Solution](solutions/0014/README.md) |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [Solution](solutions/0020/README.md) |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Solution](solutions/0058/README.md) |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [Solution](solutions/0217/README.md) |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Solution](solutions/0344/README.md) |
-| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [Solution](solutions/0771/README.md) |
-| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Solution](solutions/1108/README.md) |
-| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Solution](solutions/1281/README.md) |
-| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | [Solution](solutions/1295/README.md) |
-| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Solution](solutions/1313/README.md) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](solutions/0001) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy | [Solution](solutions/0007) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [Solution](solutions/0009) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [Solution](solutions/0013) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | [Solution](solutions/0014) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | [Solution](solutions/0020) |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [Solution](solutions/0058) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [Solution](solutions/0217) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [Solution](solutions/0344) |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | [Solution](solutions/0771) |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | [Solution](solutions/1108) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | [Solution](solutions/1281) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | [Solution](solutions/1295) |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list) | Easy | [Solution](solutions/1313) |
