@@ -1,30 +1,6 @@
 # LeetCode.Net
 
 This repo contains the LeetCode Problem Solutions in .Net Core. I have the ambitious gaol of solving all the problems on LeetCode within 2020.
-
-## How I initialized this repo projects abd sub-directories 
-
-Created initRepo.sh with the below content:
-
-```
-#!/bin/bash
-for i in $(seq -f "%04g" 1 1500)
-do
-  echo "Creating directory $i "
-  mkdir -p $i
-  cd $i
-  echo "Solution for problem $i" > README.md
-  eval "dotnet new console"
-  cd ..
-done
-```
-
-make initRepo.sh executable then execute it
-
-```
-chmod 755 initRepo.sh
-./initRepo.sh
-```
 These are the problems that I solved so far:
 
 | No. | Problem Name | Difficulty | Solution |
