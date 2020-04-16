@@ -1,5 +1,5 @@
+# My Interview Preparation 
 ## LeetCode
-
 | No. | Problem Name | Difficulty | Solutions |
 |-----|--------------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [.Net Code](LeetCode/dotnet/0001) |
@@ -23,3 +23,10 @@
 |-----|--------------|----------|
 | 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | [.Net Code](Euler/dotnet/0001) |
 | 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | [.Net Code](Euler/dotnet/0002) |
+
+## Modern papers to read
+| No. | Paper | Why you should read it |
+|-----|--------------|----------|
+| 1 | [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) |Gives a good idea about designing a distributed file system.|
+| 2 | [MapReduce: SimpliedDataProcessingonLargeClusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)| Good knowledge about distributed systems.|
+| 2 | [Finding a needle in Haystack: Facebook’s photo storage](https://research.fb.com/publications/finding-a-needle-in-haystack-facebooks-photo-storage/)| |
