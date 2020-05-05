@@ -5,9 +5,11 @@ Specialization homepage https://www.coursera.org/specializations/algorithms
 ## Courses 
 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
     1. Week 1 - Introduction; "big-oh" notation and asymptotic analysis.
-        * [Programming Assignment 1](Coursera/Stanford-Algorithms-Specialization/course-1/ProgrammingAssignment1)
-        * [Problem Set 1](Coursera/Stanford-Algorithms-Specialization/course-1/ProblemSet1.md)
+        * [Programming Assignment 1](course-1/ProgrammingAssignment1)
+        * [Problem Set 1](course-1/ProblemSet1.md)
     2. Week 2 - Divide-and-conquer basics; the master method for analyzing divide and conquer algorithms.
+        * [Programming Assignment 2](course-1/ProgrammingAssignment2)
+        * [Problem Set 2](course-1/ProblemSet2.md)
     3. Week 3 - The QuickSort algorithm and its analysis; probability review.
     4. Week 4 - Linear-time selection; graphs, cuts, and the contraction algorithm.
 2. Graph Search, Shortest Paths, and Data Structures
