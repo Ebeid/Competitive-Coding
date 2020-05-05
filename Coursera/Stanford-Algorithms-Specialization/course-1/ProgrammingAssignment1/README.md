@@ -20,4 +20,5 @@ The numeric answer should be typed in the space below. So if your answer is 1198
 
 # Related Problems
 
-* LeetCode Problem 43 - [Multiply Strings](https://leetcode.com/problems/multiply-strings) - [.Net Code](../../../../../LeetCode/dotnet/0043)
+* LeetCode Problem 43 - [Multiply Strings](https://leetcode.com/problems/multiply-strings) - [.Net Code](../../../../LeetCode/dotnet/0043)
+/Users/ebeid/github/Interview-School/../../../../README.md
