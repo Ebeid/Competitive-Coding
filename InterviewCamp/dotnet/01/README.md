@@ -15,32 +15,11 @@
 
 ## .Net Core commands to create this solution
 
-1. Create solution in the current directory
-```
-dotnet new sln -o .
-```
-2. Create a new class library project Solution.csproj in the Solution folder
-```
-dotnet new classlib -o Solution
-```
-3. Add the Solution.csproj class library project to the solution
-```
-dotnet sln add ./Solution/Solution.csproj
-```
-4. Create the Solution.Tests xunit test project in the Solution.Tests directory
-```
-dotnet new xunit -o Solution.Tests
-```
-5. Add the test project to the solution 
-```
-dotnet sln add ./Solution.Tests/Solution.Tests.csproj
-```
-6. Add the Solution.csproj class library as a dependency to the Solution.Tests.csproj project
-```
-dotnet add ./Solution.Tests/Solution.Tests.csproj reference ./Solution/Solution.csproj
-```
+1. Create solution in the current directory ``` dotnet new sln -o . ```
+2. Create a new class library project Solution.csproj in the Solution folder ```dotnet new classlib -o Solution```
+3. Add the Solution.csproj class library project to the solution ```dotnet sln add ./Solution/Solution.csproj```
+4. Create the Solution.Tests xunit test project in the Solution.Tests directory ```dotnet new xunit -o Solution.Tests```
+5. Add the test project to the solution ```dotnet sln add ./Solution.Tests/Solution.Tests.csproj```
+6. Add the Solution.csproj class library as a dependency to the Solution.Tests.csproj project ```dotnet add ./Solution.Tests/Solution.Tests.csproj reference ./Solution/Solution.csproj```
 
-## Run tests
-```
-dotnet test
-```
+**Run tests** ```dotnet test```
