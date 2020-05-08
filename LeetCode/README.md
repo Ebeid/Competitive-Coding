@@ -3,6 +3,7 @@
 | No. | Problem Name | Difficulty | Solutions |
 |-----|--------------|------------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [.Net Code](dotnet/0001) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | [.Net Code](dotnet/0003) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Easy | [.Net Code](dotnet/0007) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | [.Net Code](dotnet/0009) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | [.Net Code](dotnet/0013) |
@@ -13,6 +14,9 @@
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | [.Net Code](dotnet/0058) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | [.Net Code](dotnet/0066) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | [.Net Code](dotnet/0217) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | [.Net Code](dotnet/0219) |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | Easy | [.Net Code](dotnet/0220) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | [.Net Code](dotnet/0283) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | [.Net Code](dotnet/0344) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | [.Net Code](dotnet/0415) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Meduim | [.Net Code](dotnet/0560) |

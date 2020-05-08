@@ -6,11 +6,12 @@
 2. [Euler Project](Euler)
 3. [Interview Camp](InterviewCamp)
 
-## Coursera
+## Courses
 1. [Algorithms Specialization (4 Courses) offered by Stanford](https://www.coursera.org/specializations/algorithms). 
     1. [My problem solutions](Coursera/Stanford-Algorithms-Specialization)
 2. [Data Structures and Algorithms Specialization (6 Courses) offered by UC San Diego](https://www.coursera.org/specializations/data-structures-algorithms). 
     1. [My problem solutions](Coursera/UCSD-Data-Structures-and-Algorithms-Specialization)
+3. [CS 97SI: Introduction to Programming Contests](http://web.stanford.edu/class/cs97si)
 
 ## Math
 1. [Mathematics for Computer Science by Eric Lehman and Tom Leighton](https://www.cs.princeton.edu/courses/archive/fall06/cos341/handouts/mathcs.pdf)

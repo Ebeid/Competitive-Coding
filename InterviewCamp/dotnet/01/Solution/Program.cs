@@ -195,46 +195,32 @@ namespace Solution
         //  ---------------------------------------- Problem 7 --------------------------------------------------
         public static void moveZeroesToBeginning(int[] a)
         {
-            //Console.Write(">> : ");
-            //printArray(a);
             int boundary = 0;
             for (int i = 0; i < a.Length; i++)
             {
                 if (a[i] == 0)
                 {
                     swap(a, i, boundary);
-                    //Console.Write(i + "  : ");
-                    //printArray(a);        
                     boundary += 1;
                 }
             }
-            //Console.Write("<< : ");
-            //printArray(a);
         }
         //  ---------------------------------------- Problem 8 --------------------------------------------------
         public static void moveZeroesToEnd(int[] a)
         {
-            //Console.Write(">> : ");
-            //printArray(a);
             int boundary = a.Length - 1;
             for (int i = a.Length - 1; i >= 0; i--)
             {
                 if (a[i] == 0)
                 {
                     swap(a, i, boundary);
-                    //Console.Write(i + "  : ");
-                    //printArray(a);           
                     boundary--;
                 }
             }
-            //Console.Write("<< : ");
-            //printArray(a);
         }
         //  ---------------------------------------- Problem 9 --------------------------------------------------
         public static void dutchNationalFlag(int[] a, int pivot)
         {
-            //Console.Write(">> : ");
-            //printArray(a);
             int low_boundary = 0, high_boundary = a.Length - 1;
             int i = 0;
             while (i <= high_boundary)
@@ -254,11 +240,7 @@ namespace Solution
                 {
                     i++;
                 }
-                //Console.Write(i + "  : ");
-                //printArray(a);  
             }
-            //Console.Write("<< : ");
-            //printArray(a);
         }
         //  ---------------------------------------- Problem 10 --------------------------------------------------
         public static void redWhiteBlue(int[] a)
