@@ -5,6 +5,7 @@
     1. Similar to [Problem 56 on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k)
 3. Level: Medium. Given a String, find the longest substring with unique characters.For example: "whatwhywhere" --> "atwhy" 
     1. Similar to [Problem 3 on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+4. Level: Medium. Given an array of integers, both -ve and +ve, find a contiguous subarray that sums to 0.For example: [2,4,-2,1,-3,5,-3] --> [4,-2,1,-3]
 
 ## .Net Core commands to create this solution
 
